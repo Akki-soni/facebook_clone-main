@@ -35,7 +35,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Age Calculator App Screenshot](/Facebook-clone%20Screenshot.png)
+![Facebook-Clone Screenshot](/Facebook-clone%20Screenshot.png)
 
 ## 🔗 Live Demo
 
